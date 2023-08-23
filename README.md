@@ -3,7 +3,7 @@
 ### 🐱‍💻 Sobre Mim
 👨‍💻 Estudante de Ciência da Computação.
 
-🎯 Objetivo: ser uma desenvolvedora de software Back-end. 
+🎯 Objetivo: atuar como uma desenvolvedora de software Back-end. 
 
 🚀 Neste ano, comecei a aprofundar meus estudos sobre desenvolvimento de software, tendo como foco Java e Javascript.
 
