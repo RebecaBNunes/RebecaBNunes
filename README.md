@@ -35,6 +35,6 @@
 ### ⚙️ GitHub Analytics
 
 <div align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RebecaBNunes&show_icons=true&theme=prussian" alt="Stats do GitHub de Rebeca Barbosa" />
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaBNunes&layout=compact&theme=prussian" alt="Principais tecnologias usadas por Rebeca" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RebecaBNunes&show_icons=true&theme=prussian" alt="Stats do GitHub de Rebeca Barbosa" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaBNunes&layout=compact&theme=prussian" alt="Principais tecnologias usadas por Rebeca" />
 </div>
