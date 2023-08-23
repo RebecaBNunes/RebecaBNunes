@@ -5,7 +5,7 @@
 
 🎯 Objetivo: ser uma desenvolvedora de software Back-end. 
 
-🚀 Neste ano, comecei a aprofundar meus estudos sobre desenvolvimento de software, tendo como foco em Java e Javascript.
+🚀 Neste ano, comecei a aprofundar meus estudos sobre desenvolvimento de software, tendo como foco Java e Javascript.
 
 📚 Atualmente, estou estudando: Javascript, Node.js e PostgreSQL no curso de Desenvolvimento de Software com foco em Back-end ministrado pela [Cubos Academy](https://cubos.academy/).
 
