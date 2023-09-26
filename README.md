@@ -14,7 +14,6 @@
 
 <div align="center"> 
   <p> Caso queria conversar, seguem minhas redes sociais:</p> 
-  <p><a href="https://www.instagram.com/rebeca_barbosa_nunes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rebeca-barbosa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:beca9375@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p> 
 </div>
