@@ -23,6 +23,7 @@
   <img align="center" alt="Node-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Postgres-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" src="https://devicon-website.vercel.app/api/csharp/original.svg" alt="logo da linguagem C#" height="50" width="60">
+  <img src="./angular.png" alt="ícone do Angular" align="center" height="60" width="60">
   <img align="center" alt="Git-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   
 </div>
