@@ -1,21 +1,18 @@
 ## Hi, eu sou Rebeca Barbosa! 👋
 
 ### 🐱‍💻 Sobre Mim
-👨‍💻 Estudante de Ciência da Computação.
+👨‍💻 Graduada em Ciência da Computação.
 
-🎯 Objetivo: atuar como uma desenvolvedora de software Back-end. 
+🎯 Objetivo: atuar como uma desenvolvedora de software full-stack. 
 
-🚀 Neste ano, comecei a aprofundar meus estudos sobre desenvolvimento de software, tendo como foco Java e Javascript.
-
-📚 Atualmente, estou estudando: Javascript, Node.js e PostgreSQL no curso de Desenvolvimento de Software com foco em Back-end ministrado pela [Cubos Academy](https://cubos.academy/).
+📚 Atualmente, estou estudando: Angular, C# e .NET.
 
 💬 Amo tocar teclado nas horas vagas e jogar.
-
 
 <div align="center"> 
   <p> Caso queria conversar, seguem minhas redes sociais:</p> 
   <a href="https://www.linkedin.com/in/rebeca-barbosa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:beca9375@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p> 
+  <a href = "mailto:rebecabarbosadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p> 
 </div>
 
   
@@ -24,9 +21,8 @@
 <div align="center">
   <img align="center" alt="Javascript-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Java-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Spring-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
   <img align="center" alt="Postgres-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" src="https://devicon-website.vercel.app/api/csharp/original.svg" alt="logo da linguagem C#" height="50" width="60">
   <img align="center" alt="Git-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   
 </div>
