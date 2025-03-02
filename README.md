@@ -1,7 +1,7 @@
-## Hi, eu sou Rebeca Barbosa! 👋
+## Olá, eu sou Rebeca Barbosa! 👋
 
 ### 🐱‍💻 Sobre Mim
-👨‍💻 Graduada em Ciência da Computação.
+👨‍💻 Graduada em Ciências da Computação.
 
 🎯 Objetivo: atuar como uma desenvolvedora de software full-stack. 
 
